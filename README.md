@@ -1,5 +1,8 @@
 # Bitcoin Index
 
+## Live Site
+[Bitcoin Index](https://bitcoin-index.vercel.app/)
+
 ## Overview
 
 Bitcoin Index is a simple React application built using Vite. The purpose of this project is to practice using state in React (specifically, `useState`) and fetching and displaying data dynamically from an API using the Fetch API.

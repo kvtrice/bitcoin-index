@@ -23,11 +23,10 @@ a:hover {
 }
 
 body {
-  margin: 0;
+  margin: 20%;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  height: auto;
   width: auto;
   justify-content: center;
   align-items: center;
@@ -37,6 +36,11 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+select {
+  padding: 0.5em;
+  border-radius: 8px;
 }
 
 button {
